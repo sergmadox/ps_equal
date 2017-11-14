@@ -1,4 +1,4 @@
-Структура simlpe_calc
+Структура ps_equal_final
 
 +-- Ethalon
 |	L-- etalonPO.csv
